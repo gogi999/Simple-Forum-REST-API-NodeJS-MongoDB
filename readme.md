@@ -1,0 +1,3 @@
+# Simple Forum REST API
+
+Built using technologies: node.js, express, mongoDB, mongoose...
